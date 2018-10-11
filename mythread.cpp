@@ -2,5 +2,5 @@
 
 MyThread::MyThread()
 {
-
+   //nihao
 }
