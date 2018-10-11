@@ -2,5 +2,5 @@
 
 MyThread::MyThread()
 {
-   //nihao
+   //刘伟求
 }
